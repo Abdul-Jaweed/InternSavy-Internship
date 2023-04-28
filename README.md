@@ -7,6 +7,7 @@
 
 **Data set [link](https://www.kaggle.com/datasets/mohansacharya/graduate-admissions)**
 
+**Web App [link](https://abdul-jaweed-graduate-admission-predictor-app-5fi99h.streamlit.app/)**
 
 ### Task 2 : Mall Customers Segmentation Using Unsupervised Machine Learning 
 
@@ -14,9 +15,12 @@
 
 **Data set [link](https://www.kaggle.com/datasets/shwetabh123/mall-customers)**
 
+**Web App [link](https://abdul-jaweed-mall-customers-classes-predictor-app-dtr380.streamlit.app/)**
 
 ### Task 3 : Customer Segmentation Analysis with Python 
 
 #### Customer Segmentation Analysis with Python
 
 **Data set [link](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)**
+
+**Web App [link](https://abdul-jaweed-customer-segmentation-analysis-home-cswor5.streamlit.app/)**
